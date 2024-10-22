@@ -1,5 +1,7 @@
 # Responsive Portfolio Website with Slick Slider
 
+The client of this project is my friend Somesh Verma.
+
 This is a responsive portfolio website that includes a fully functional mobile navigation menu and a review/testimonial slider using the Slick.js library. The design adapts to different screen sizes and provides a smooth user experience across devices.
 
 ## Features
@@ -85,3 +87,4 @@ The slider and mobile navigation scripts are located in js/script.js.
 
 ## Demo
 
+Will soon share the deployed link.
